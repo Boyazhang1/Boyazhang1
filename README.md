@@ -1,4 +1,2 @@
-### Hi there, I'm Boya 👋
-
-- learning how to code 😄 
+learning how to code 😄 
 
