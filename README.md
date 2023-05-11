@@ -1,2 +1,2 @@
-learning how to code 😄 
+interested in tackling challenging problems with software 
 
